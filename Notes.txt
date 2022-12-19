@@ -1,0 +1,4 @@
+React ToDo App with Firebase
+
+
+https://tailwindcss.com/docs/guides/create-react-app - Follow the steps mentioned
